@@ -1,6 +1,9 @@
 # facultyRecruitment
 # Project Setup Guide
 
+## Demo video
+[faculty recruitment video](https://youtu.be/wbG52UKsss0?si=noDomeHN2SJrcjiy)
+
 Follow these steps to set up and run your project:
 
 ## Backend Setup
